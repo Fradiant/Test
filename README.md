@@ -1,31 +1,30 @@
-# demo1
+# Vue3_demo
 
-This template should help get you started developing with Vue 3 in Vite.
+本模板在Vite中使用Vue 3进行开发。
 
 2023/07/14修改：引入koalaForm组件，供参考使用：https://koala-form.mumblefe.cn/
 
-## Recommended IDE Setup
+## 推荐的IDE设置
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+## 自定义配置
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## 安装依赖
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 编译和热重载开发
 
 ```sh
 npm run serve
 ```
 
-### Compile and Minify for Production
-
+### 编译打包
 ```sh
 npm run build
 ```
